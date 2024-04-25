@@ -1,8 +1,12 @@
 -created app using create react app
 -configured tailwindcss
 -created header
+-routing
 
 - login form
+  -sign up form
+  -form validation
+  -useRef() hook
 
 #Features
 #Before Login
